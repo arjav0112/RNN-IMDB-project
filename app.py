@@ -16,7 +16,7 @@ import streamlit as st
 # model = load_model('imdb_rnn_model.h5')
 # print(imdb.get_word_index())
 # print(imdb.get_word_index().items())
-model = load_model("imdb_rnn_model.keras.h5")
+model = load_model("imdb_rnn_model.h5")
 
 # model.summary()
 
